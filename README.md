@@ -1,7 +1,7 @@
 ## Modelo de Dashboard - Projeto DIO
 Modelo de Dashboard criado a partir de base de dados fornecidos durante projeto da DIO
 
-<a href="https://github.com/vicataborda/podcast-minutos-do-oculto/blob/main/Podcast%20-%20Minutos%20do%20Oculto%20-%20Vit%C3%B3ria%20C.%20Taborda.MP3" title="View PDF now"> ➡ Clique aqui para ver</a>
+<a href="https://onedrive.live.com/view.aspx?resid=D164F25D3EB0CFB2%2163779&authkey=!AKuMbnN7AA68uGM"> ➡ Clique aqui para ver</a>
 
 ## Tecnologias utilizadas no projeto:
 
