@@ -1,7 +1,7 @@
 ## Modelo de Dashboard - Projeto DIO
 Modelo de Dashboard criado a partir de base de dados fornecidos durante projeto da DIO
 
-<a href="https://onedrive.live.com/view.aspx?resid=D164F25D3EB0CFB2%2163779&authkey=!AKuMbnN7AA68uGM"> ➡ Clique aqui para ver</a>
+<a href="https://github.com/vicataborda/Modelo-de-Dashboard---Projeto-DIO/blob/main/Base%20Data%20Exp1.xlsx"> ➡ Clique aqui para ver</a>
 
 ## Tecnologias utilizadas no projeto:
 
